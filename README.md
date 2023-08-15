@@ -24,7 +24,7 @@ This week focused on honing linear regression skills. I delved into techniques s
 Classification mastery unfolded as I delved into logistic regression. I learned to predict categories and address overfitting through regularization. The week culminated with a hands-on implementation, combining logistic regression's power with the finesse of regularization.
 
 🔗 **Practice Labs and Assignments**
-Explore the Jupyter practice labs, assignments, and programming exercises I tackled during the course: [Jupyter Practice Labs](link_to_labs_here)
+Explore the Jupyter practice labs, assignments, and programming exercises I tackled during the course in the above repo.
 
 🌐 **Acknowledgments**
 
