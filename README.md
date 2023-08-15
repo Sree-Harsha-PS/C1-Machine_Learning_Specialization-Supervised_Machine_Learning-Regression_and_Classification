@@ -1,4 +1,4 @@
-# Standford Online & DeepLearning-AI Certificate Course: Supervised Machine Learning
+# Stanford Online & DeepLearning-AI Certificate Course: Supervised Machine Learning
 
 📜 **Introduction**
 
