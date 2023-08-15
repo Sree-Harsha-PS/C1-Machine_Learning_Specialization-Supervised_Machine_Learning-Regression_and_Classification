@@ -28,7 +28,7 @@ Explore the Jupyter practice labs, assignments, and programming exercises I tack
 
 🌐 **Acknowledgments**
 
-I extend heartfelt gratitude to the esteemed course instructors and curriculum curators: @Andrew Ng, @Eddy Shyu, @Aarti Bagul, and @Geoff Ladwig. Their guidance illuminated this enlightening journey.
+I extend heartfelt gratitude to the esteemed course instructors and curriculum curators: Andrew Ng, Eddy Shyu, Aarti Bagul, and Geoff Ladwig. Their guidance illuminated this enlightening journey.
 
 🚀 **Future Endeavors**
 
