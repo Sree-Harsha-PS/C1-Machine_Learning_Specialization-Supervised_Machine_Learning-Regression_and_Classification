@@ -9,7 +9,9 @@ I am thrilled to share my achievement of completing the Certificate Course on Su
 Throughout this transformative course, I focused on:
 
 ✅ Constructing and fine-tuning supervised machine learning models for prediction and binary classification tasks, including linear regression and logistic regression.
+
 ✅ Exploring advanced methodologies such as regularization to mitigate overfitting and mastering gradient descent optimization.
+
 ✅ Delving deep into supervised learning intricacies, immersing in the mechanics of linear regression and logistic regression for classification.
 
 📆 **Week-by-Week Overview**
